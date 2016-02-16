@@ -1,7 +1,4 @@
 hello world!
 Creating a new branch is quick AND simple
 this change is in dev branch
-<<<<<<< HEAD
 this is st
-=======
->>>>>>> dev
